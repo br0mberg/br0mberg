@@ -1,6 +1,10 @@
 <p align="center">
   <h1 align="center">Привет, я Андрей! 👋</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+Backend+Developer" alt="Typing SVG" />
-  </a>
+  <h3 align="center">Java Backend разработчик 🚀</h3>
 </p>
+
+## Обо мне
+
+Выпускник МГТУ им. Баумана, Java Backend разработчик. Создаю масштабируемые и надежные решения, постоянно совершенствуя свои навыки и изучая новые технологии.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=br0mberg&repo=SupportDesk-ImageService)](https://github.com/anuraghazra/github-readme-stats)
