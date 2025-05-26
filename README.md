@@ -20,7 +20,7 @@
 *   **Инструменты:** Git, Docker, Docker Compose, Apache Kafka, Keycloak, Linux
 *   **Cloud:** AWS (в процессе изучения)
 *   **CI/CD:** Jenkins
-*   **Containerization:** Kubernetes (в процессе изучения)
+*   **Containerization:** Kubernetes
 
 # 🚀 Проекты
 
