@@ -12,6 +12,16 @@
 
 Читайте мои статьи о Java, разработке и архитектуре на [Habr](https://habr.com/ru/users/br0mberg/)!
 
+## 🛠️ Навыки и технологии
+
+*   **Языки:** Java, SQL, C/C++
+*   **Frameworks:** Spring Framework (Boot, Security, Data, MVC), Quarkus, gRPC
+*   **Базы данных:** PostgreSQL, Greenplum, RabbitMQ, Redis
+*   **Инструменты:** Git, Docker, Docker Compose, Apache Kafka, Keycloak, Linux
+*   **Cloud:** AWS (в процессе изучения)
+*   **CI/CD:** Jenkins
+*   **Containerization:** Kubernetes (в процессе изучения)
+
 ## ✉️ Контакты
 
 *   **Email:** [aabrombin@yandex.ru](mailto:aabrombin@yandex.ru)
