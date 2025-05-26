@@ -14,7 +14,7 @@
 
 ## 🛠️ Навыки и технологии
 
-*   **Языки:** Java, SQL, C/C++
+*   **Языки:** Java, SQL, C/C++, Python
 *   **Frameworks:** Spring Framework (Boot, Security, Data, MVC), Quarkus, gRPC
 *   **Базы данных:** PostgreSQL, Greenplum, RabbitMQ, Redis
 *   **Инструменты:** Git, Docker, Docker Compose, Apache Kafka, Keycloak, Linux
