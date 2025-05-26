@@ -35,6 +35,8 @@
 *   **[XMLsignAndValidate](https://github.com/br0mberg/XMLsignAndValidate)**
     *   Библиотека для подписи и проверки XML-документов.
 
+[![Commits за год](https://img.shields.io/github/commits-since/2025/br0mberg/SupportDesk-ImageService)](https://github.com/br0mberg)
+
 ## ✉️ Контакты
 
 *   **Email:** [aabrombin@yandex.ru](mailto:aabrombin@yandex.ru)
