@@ -27,7 +27,7 @@
 *   **[SupportDesk-ImageService](https://github.com/br0mberg/SupportDesk-ImageService)**
     *   Сервис для обработки изображений в приложениях поддержки.
 *   **[SupportDesk-IncidentService](https://github.com/br0mberg/SupportDesk-IncidentService)**
-    *   Сервис для управления инцидентами в приложениях поддержки. Подробности в моей [статье на Habr](https://habr.com/ru/articles/870640/).
+    *   Сервис для управления инцидентами в приложениях поддержки.
 *   **[SupportDesk-UserService](https://github.com/br0mberg/SupportDesk-UserService)**
     *   Сервис для управления пользователями в приложениях поддержки. Разработан с использованием Quarkus.
 *   **[JMarket](https://github.com/br0mberg/JMarket)**
