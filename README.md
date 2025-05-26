@@ -34,6 +34,8 @@
     *   Приложение онлайн-маркетплейса.
 *   **[XMLsignAndValidate](https://github.com/br0mberg/XMLsignAndValidate)**
     *   Библиотека для подписи и проверки XML-документов.
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br0mberg&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✉️ Контакты
 
