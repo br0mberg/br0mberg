@@ -21,7 +21,7 @@
 *   **Базы данных:** PostgreSQL, Greenplum, RabbitMQ, Redis
 *   **Инструменты:** Git, Docker, Docker Compose, Apache Kafka, Keycloak, Linux
 *   **Cloud:** AWS (в процессе изучения)
-*   **CI/CD:** Jenkins
+*   **CI/CD:** Gitlab CI
 *   **Containerization:** Kubernetes
 
 # 🚀 Проекты
