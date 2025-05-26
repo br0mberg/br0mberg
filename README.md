@@ -37,4 +37,4 @@
 
 ## ✉️ Контакты
 
-*   **Email:** [aabrombin@yandex.ru](mailto:aabrombin@yandex.ru)
+*   **Email:** [andrey@brombin.ru](mailto:andrey@brombin.ru)
