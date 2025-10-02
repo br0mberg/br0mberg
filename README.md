@@ -56,14 +56,14 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://habr.com/p/924100/">
-        <img src="assets/articles/rag-spring-ai.png" alt="RAG и векторные БД: НЕ Сизифов LLM на Java и Spring AI" width="100%"/>
+        <img src="assets/rag.png" alt="RAG и векторные БД: НЕ Сизифов LLM на Java и Spring AI" width="100%"/>
         <br/>
         <sub><b>RAG и векторные БД: НЕ Сизифов LLM на Java и Spring AI</b></sub>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://habr.com/p/912502/">
-        <img src="assets/articles/ms-kafka-grpc.png" alt="Часть 2: Взаимодействие микросервисов — Kafka и gRPC" width="100%"/>
+        <img src="assets/kafkaGrpc.png" alt="Часть 2: Взаимодействие микросервисов — Kafka и gRPC" width="100%"/>
         <br/>
         <sub><b>Часть 2: Kafka и gRPC</b></sub>
       </a>
@@ -72,14 +72,14 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://habr.com/p/870640/">
-        <img src="assets/articles/rest-incidents.png" alt="Часть 1: идеальный REST API — микросервис инцидентов" width="100%"/>
+        <img src="assets/restapi.png" alt="Часть 1: идеальный REST API — микросервис инцидентов" width="100%"/>
         <br/>
         <sub><b>Часть 1: REST API — инциденты</b></sub>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://habr.com/ru/articles/866092/">
-        <img src="assets/articles/slam-java.png" alt="SLAM на Java с OpenCV: сравнение алгоритмов" width="100%"/>
+        <img src="assets/slamJava.png" alt="SLAM на Java с OpenCV: сравнение алгоритмов" width="100%"/>
         <br/>
         <sub><b>SLAM на Java с OpenCV</b></sub>
       </a>
