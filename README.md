@@ -65,7 +65,7 @@
       <a href="https://habr.com/p/870640/">
         <img src="assets/restapi.jpg" alt="Часть 1: идеальный REST API — микросервис инцидентов" width="100%"/>
         <br/>
-        <sub><b>Часть 1: Как я создал идеальный REST API — микросервис инцидентов на Java и Spring</b></sub>
+        <sub><b>Как я создал идеальный REST API — микросервис инцидентов на Java и Spring</b></sub>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
