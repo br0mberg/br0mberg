@@ -19,9 +19,9 @@ Java Backend разработчик, выпускник МГТУ им. Баум�
 ## 🛠️ Навыки и технологии
 
 *   **Языки:** Java, SQL, C/C++, Python
-*   **Frameworks:** Spring Framework (Boot, Security, Data, MVC), Quarkus, gRPC
+*   **Frameworks:** Spring Framework (Boot, Security, Data, MVC), Quarkus
 *   **Базы данных:** PostgreSQL, Greenplum, RabbitMQ, Redis, MongoDb
-*   **Инструменты:** Git, Docker, Docker Compose, Apache Kafka, Keycloak, Linux, ETL-Nifi
+*   **Инструменты:** Git, Docker, Docker Compose, Apache Kafka, Keycloak, Linux, ETL-Nifi, gRPC
 *   **CI/CD:** Gitlab CI, BitBucket
 *   **Containerization:** Docker, Harbor, Kubernetes
 
