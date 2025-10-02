@@ -56,7 +56,7 @@
       <a href="https://habr.com/p/912502/">
         <img src="assets/kafkaGrpc.png" alt="Часть 2: Взаимодействие микросервисов — Kafka и gRPC" width="100%"/>
         <br/>
-        <sub><b>Часть 2: Как я реализовал взаимодействие микросервисов — Kafka и gRpcC</b></sub>
+        <sub><b>Как я реализовал взаимодействие микросервисов — Kafka и gRpcC</b></sub>
       </a>
     </td>
   </tr>
