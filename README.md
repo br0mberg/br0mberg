@@ -11,6 +11,7 @@
 ## 📰 Блог
 
 Читайте мои статьи о Java, разработке и архитектуре на [Habr](https://habr.com/ru/users/br0mberg/)!
+Также, присоединяйтесь к [Telegram-каналу](https://t.me/devbrombin)!)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
