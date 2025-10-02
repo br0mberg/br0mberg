@@ -56,7 +56,7 @@
       <a href="https://habr.com/p/912502/">
         <img src="assets/kafkaGrpc.png" alt="Часть 2: Взаимодействие микросервисов — Kafka и gRPC" width="100%"/>
         <br/>
-        <sub><b>Часть 2: Kafka и gRPC</b></sub>
+        <sub><b>Часть 2: Как я реализовал взаимодействие микросервисов — Kafka и gRpcC</b></sub>
       </a>
     </td>
   </tr>
@@ -65,7 +65,7 @@
       <a href="https://habr.com/p/870640/">
         <img src="assets/restapi.jpg" alt="Часть 1: идеальный REST API — микросервис инцидентов" width="100%"/>
         <br/>
-        <sub><b>Часть 1: REST API — инциденты</b></sub>
+        <sub><b>Часть 1: Как я создал идеальный REST API — микросервис инцидентов на Java и Spring</b></sub>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
