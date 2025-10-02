@@ -20,11 +20,10 @@ Java Backend разработчик, выпускник МГТУ им. Баум�
 
 *   **Языки:** Java, SQL, C/C++, Python
 *   **Frameworks:** Spring Framework (Boot, Security, Data, MVC), Quarkus, gRPC
-*   **Базы данных:** PostgreSQL, Greenplum, RabbitMQ, Redis
-*   **Инструменты:** Git, Docker, Docker Compose, Apache Kafka, Keycloak, Linux
-*   **Cloud:** AWS (в процессе изучения)
-*   **CI/CD:** Gitlab CI
-*   **Containerization:** Kubernetes
+*   **Базы данных:** PostgreSQL, Greenplum, RabbitMQ, Redis, MongoDb
+*   **Инструменты:** Git, Docker, Docker Compose, Apache Kafka, Keycloak, Linux, ETL-Nifi
+*   **CI/CD:** Gitlab CI, BitBucket
+*   **Containerization:** Docker, Harbor, Kubernetes
 
 # 🚀 Проекты
 
