@@ -45,6 +45,7 @@
 [![RAG и векторные БД: НЕ Сизифов LLM на Java и Spring Ai](rag.png)](https://habr.com/p/924100/)
 [![Часть 2: Как я реализовал взаимодействие микросервисов — Kafka и gRpc](kafka&&grpc.png)](https://habr.com/p/912502/)
 [![Часть 1: Как я создал идеальный REST API — микросервис инцидентов на Java и Spring](assets/rest api.jpg)](https://habr.com/p/870640/)
+
 [SLAM на Java с OpenCV: сравнение алгоритмов автономной навигации](https://habr.com/ru/articles/866092/)
 
 ## ✉️ Контакты
