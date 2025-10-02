@@ -42,11 +42,50 @@
     *   Библиотека для подписи и проверки XML-документов.
 
 # 📰 Лучшие статьи
-[![RAG и векторные БД: НЕ Сизифов LLM на Java и Spring Ai](rag.png)](https://habr.com/p/924100/)
-[![Часть 2: Как я реализовал взаимодействие микросервисов — Kafka и gRpc](kafkaGrpc.png)](https://habr.com/p/912502/)
-[![Часть 1: Как я создал идеальный REST API — микросервис инцидентов на Java и Spring](assets/restapi.jpg)](https://habr.com/p/870640/)
+[RAG и векторные БД: НЕ Сизифов LLM на Java и Spring Ai](https://habr.com/p/924100/)
+
+[Часть 2: Как я реализовал взаимодействие микросервисов — Kafka и gRpc](https://habr.com/p/912502/)
+
+[Часть 1: Как я создал идеальный REST API — микросервис инцидентов на Java и Spring](https://habr.com/p/870640/)
 
 [SLAM на Java с OpenCV: сравнение алгоритмов автономной навигации](https://habr.com/ru/articles/866092/)
+
+<h2>📰 Лучшие статьи</h2>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://habr.com/p/924100/">
+        <img src="assets/articles/rag-spring-ai.png" alt="RAG и векторные БД: НЕ Сизифов LLM на Java и Spring AI" width="100%"/>
+        <br/>
+        <sub><b>RAG и векторные БД: НЕ Сизифов LLM на Java и Spring AI</b></sub>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://habr.com/p/912502/">
+        <img src="assets/articles/ms-kafka-grpc.png" alt="Часть 2: Взаимодействие микросервисов — Kafka и gRPC" width="100%"/>
+        <br/>
+        <sub><b>Часть 2: Kafka и gRPC</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://habr.com/p/870640/">
+        <img src="assets/articles/rest-incidents.png" alt="Часть 1: идеальный REST API — микросервис инцидентов" width="100%"/>
+        <br/>
+        <sub><b>Часть 1: REST API — инциденты</b></sub>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://habr.com/ru/articles/866092/">
+        <img src="assets/articles/slam-java.png" alt="SLAM на Java с OpenCV: сравнение алгоритмов" width="100%"/>
+        <br/>
+        <sub><b>SLAM на Java с OpenCV</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## ✉️ Контакты
 
