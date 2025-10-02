@@ -70,7 +70,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://habr.com/ru/articles/866092/">
-        <img src="assets/slamJava.pn" alt="SLAM на Java с OpenCV: сравнение алгоритмов" width="100%"/>
+        <img src="assets/slamJava.png" alt="SLAM на Java с OpenCV: сравнение алгоритмов" width="100%"/>
         <br/>
         <sub><b>SLAM на Java с OpenCV</b></sub>
       </a>
