@@ -32,7 +32,7 @@
     *   Сервис для обработки изображений в приложениях поддержки.
 *   **[SupportDesk-IncidentService](https://github.com/br0mberg/SupportDesk-IncidentService)**
     *   Сервис для управления инцидентами в приложениях поддержки.
-*   **[SupportDesk-RagService](https://github.com/br0mberg/SupportDesk-IncidentRetrievalService/tree/main)
+*   **[SupportDesk-RagService](https://github.com/br0mberg/SupportDesk-IncidentRetrievalService/tree/main)**
     *   Сервис для предобработки инцидентов с помощью больших языковых моделей (LLM).
 *   **[SupportDesk-UserService](https://github.com/br0mberg/SupportDesk-UserService)**
     *   Сервис для управления пользователями в приложениях поддержки. Разработан с использованием Quarkus.
@@ -45,7 +45,7 @@
 [![RAG и векторные БД: НЕ Сизифов LLM на Java и Spring Ai]()](https://habr.com/p/924100/)
 [![Часть 2: Как я реализовал взаимодействие микросервисов — Kafka и gRpc]()](https://habr.com/p/912502/)
 [![Часть 1: Как я создал идеальный REST API — микросервис инцидентов на Java и Spring]()](https://habr.com/p/870640/)
-[![SLAM на Java с OpenCV: сравнение алгоритмов автономной навигации](assests/slamJava.png)](https://habr.com/p/866092/))
+[![SLAM на Java с OpenCV: сравнение алгоритмов автономной навигации](assests/slamJava.png)](https://habr.com/p/866092/)
 
 ## ✉️ Контакты
 
