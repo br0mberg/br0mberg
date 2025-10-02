@@ -35,7 +35,7 @@
 *   **[SupportDesk-RagService](https://github.com/br0mberg/SupportDesk-IncidentRetrievalService/tree/main)**
     *   Сервис для предобработки инцидентов с помощью больших языковых моделей (LLM).
 *   **[SupportDesk-UserService](https://github.com/br0mberg/SupportDesk-UserService)**
-    *   Сервис для управления пользователями в приложениях поддержки. Разработан с использованием Quarkus.
+    *   Сервис для управления пользователями в приложениях поддержки.
 *   **[JMarket](https://github.com/br0mberg/JMarket)**
     *   Приложение онлайн-маркетплейса.
 *   **[XMLsignAndValidate](https://github.com/br0mberg/XMLsignAndValidate)**
