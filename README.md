@@ -68,10 +68,10 @@ Java Backend разработчик, выпускник МГТУ им. Баум�
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://habr.com/ru/articles/866092/">
-        <img src="assets/image.png" alt="SLAM на Java с OpenCV: сравнение алгоритмов" width="100%"/>
+      <a href="https://habr.com/p/949170/">
+        <img src="assets/image.png" alt="Дорожная карта Java backend-разработчика: c Junior до Middle" width="100%"/>
         <br/>
-        <sub><b>SLAM на Java с OpenCV</b></sub>
+        <sub><b>Дорожная карта Java backend-разработчика: c Junior до Middle</b></sub>
       </a>
     </td>
   </tr>
