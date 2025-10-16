@@ -68,10 +68,10 @@ Java Backend разработчик, выпускник МГТУ им. Баум�
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://habr.com/p/949170/">
-        <img src="assets/image.png" alt="Дорожная карта Java backend-разработчика: c Junior до Middle" width="100%"/>
+      <a href="https://habr.com/p/955604/">
+        <img src="assets/imagePatterns.png" alt="Паттерны ООП c примерами на Java: порождающие шаблоны" width="100%"/>
         <br/>
-        <sub><b>Дорожная карта Java backend-разработчика: c Junior до Middle</b></sub>
+        <sub><b>Паттерны ООП c примерами на Java: порождающие шаблоны</b></sub>
       </a>
     </td>
   </tr>
