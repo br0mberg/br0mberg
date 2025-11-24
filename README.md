@@ -16,7 +16,7 @@ Java Backend разработчик, выпускник МГТУ им. Баум�
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## 🛠️ Навыки и технологии
+## Навыки и технологии
 
 *   **Языки:** Java, SQL, C/C++, Python, Groovy
 *   **Frameworks:** Spring Framework (Boot, Security, Data, MVC), Quarkus
