@@ -1,82 +1,73 @@
+# Привет, это Бромбин Андрей! 👋
+
+<h3 align="center">Java Backend разработчик | Магистрант ВШЭ | Автор на Habr</h3>
+
 <p align="center">
-  <h1 align="center">Привет, это Бромбин Андрей! 👋</h1>
-  <h3 align="center">Java Backend разработчик</h3>
+  <img src="https://komarev.com/ghpvc/?username=br0mberg&label=Просмотры+профиля&color=0e75b6&style=flat" alt="br0mberg profile views" />
 </p>
 
-## Обо мне
+## 👨‍💻 Обо мне
+- 🎓 **Выпускник:** МГТУ им. Баумана
+- 🎓 **Магистрант ВШЭ:** "Проектирование и разработка высоконагруженных информационных систем".
+- 🚀 Создаю масштабируемые и надежные решения, каждый день совершенствую свои навыки, изучая новые для меня технологии.
+- 📫 Как со мной связаться: [andrey@brombin.ru](mailto:andrey@brombin.ru)
 
-Java Backend разработчик, выпускник МГТУ им. Баумана, магистрант ВШЭ по направлению: "Проектирование и разработка высоконагруженных информационных систем". Пишу статьи, создаю масштабируемые и надежные решения, 
-каждый день совершенствую свои навыки, изучая новые для меня технологии.
+---
 
-## 📰 Блог
+## 🛠 Навыки и технологии
 
-Читайте мои статьи о Java, разработке и архитектуре на [Habr](https://habr.com/ru/users/br0mberg/)!
+<p align="center">
+  <!-- Языки -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <!-- Фреймворки и БД -->
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Quarkus-4794FB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka"/>
+  <!-- Инфраструктура -->
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</p>
+<p align="center">
+  <em>Также использую: Groovy, gRPC, Keycloak, Linux, Apache Nifi, Harbor, Airflow.</em>
+</p>
 
-Также, присоединяйтесь к [Telegram-каналу](https://t.me/devbrombin)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-## Навыки и технологии
+## 📈 Моя статистика на GitHub
 
-*   **Языки:** Java, SQL, C/C++, Python, Groovy
-*   **Frameworks:** Spring Framework (Boot, Security, Data, MVC), Quarkus
-*   **Базы данных:** PostgreSQL, Greenplum, RabbitMQ, Redis, MongoDb
-*   **Инструменты:** Git, Docker, Apache Kafka, Keycloak, Linux, Apache Nifi - etl, gRPC, AltCraft, CMOcean, Airflow
-*   **CI/CD:** Gitlab CI, BitBucket
-*   **Containerization:** Docker, Harbor, Kubernetes
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=br0mberg&show_icons=true&locale=ru&theme=radical&hide_border=true&bg_color=0D1117" alt="br0mberg github stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br0mberg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" height="180"/>
+</p>
 
-# Проекты
+---
 
-*   **[SupportDesk-ImageService](https://github.com/br0mberg/SupportDesk-ImageService)**
-    *   Сервис для обработки изображений в приложениях поддержки.
-*   **[SupportDesk-IncidentService](https://github.com/br0mberg/SupportDesk-IncidentService)**
-    *   Сервис для управления инцидентами в приложениях поддержки.
-*   **[SupportDesk-RagService](https://github.com/br0mberg/SupportDesk-IncidentRetrievalService/tree/main)**
-    *   Сервис для предобработки инцидентов с помощью больших языковых моделей (LLM).
-*   **[SupportDesk-UserService](https://github.com/br0mberg/SupportDesk-UserService)**
-    *   Сервис для управления пользователями в приложениях поддержки.
-*   **[Java-GOF-patterns](https://github.com/br0mberg/GOF-patterns-java)**
-    *   Практические примеры паттернов GOF (банды четырёх).
-*   **[XMLsignAndValidate](https://github.com/br0mberg/XMLsignAndValidate)**
-    *   Библиотека для подписи и проверки XML-документов.
+## 🚀 Основные проекты
 
-<h2>📰 Лучшие мои статьи</h2>
+| Проект | Описание | Особенности |
+|---|---|---|
+| ⚙️ **[SupportDesk Microservices](https://github.com/br0mberg?tab=repositories&q=SupportDesk)** | Семейство сервисов для системы поддержки пользователей. | Spring, Kafka, PostgreSQL. |
+| 🧠 **[IncidentRetrievalService](https://github.com/br0mberg/SupportDesk-IncidentRetrievalService)** | Сервис для RAG и предобработки инцидентов с помощью больших языковых моделей (LLM). | Spring AI, LLM Integrations. |
+| 🧩 **[Java-GOF-patterns](https://github.com/br0mberg/GOF-patterns-java)** | Практические примеры паттернов GOF (банды четырёх) на Java. | Архитектура, ООП шаблоны. |
+| 🔐 **[XMLsignAndValidate](https://github.com/br0mberg/XMLsignAndValidate)** | Библиотека для подписи и проверки XML-документов. | Безопасность, Криптография. |
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://habr.com/p/924100/">
-        <img src="assets/rag.png" alt="RAG и векторные БД: НЕ Сизифов LLM на Java и Spring AI" width="100%"/>
-        <br/>
-        <sub><b>RAG и векторные БД: НЕ Сизифов LLM на Java и Spring AI</b></sub>
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://habr.com/p/912502/">
-        <img src="assets/kafkaGrpc.png" alt="Часть 2: Взаимодействие микросервисов — Kafka и gRPC" width="100%"/>
-        <br/>
-        <sub><b>Как я реализовал взаимодействие микросервисов — Kafka и gRpc</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://habr.com/p/957914/">
-        <img src="assets/gof-structural.png" alt="Паттерны ООП, так не издевались даже… Структурные шаблоны с примерами на Java" width="100%"/>
-        <br/>
-        <sub><b>Паттерны ООП, так не издевались даже… Структурные шаблоны с примерами на Java</b></sub>
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://habr.com/p/955604/">
-        <img src="assets/imagePatterns.png" alt="Паттерны ООП c примерами на Java: порождающие шаблоны" width="100%"/>
-        <br/>
-        <sub><b>Паттерны ООП с примерами на Java: порождающие шаблоны</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-## ✉️ Контакты
+## 📰 Мой Блог и Статьи
 
-*   **Email:** [andrey@brombin.ru](mailto:andrey@brombin.ru)
+Читайте мои статьи о Java, разработке и архитектуре!
+
+<p>
+  <a href="https://habr.com/ru/users/br0mberg/"><img src="https://img.shields.io/badge/Habr-%235181b8.svg?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"/></a>
+  <a href="https://t.me/devbrombin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
+
+- 📌 **[RAG и векторные БД: НЕ Сизифов LLM на Java и Spring AI](https://habr.com/p/924100/)**
+- 📌 **[Как я реализовал взаимодействие микросервисов — Kafka и gRpc](https://habr.com/p/912502/)**
+- 📌 **[Паттерны ООП, так не издевались даже… Структурные шаблоны с примерами на Java](https://habr.com/p/957914/)**
+- 📌 **[Паттерны ООП с примерами на Java: порождающие шаблоны](https://habr.com/p/955604/)**
