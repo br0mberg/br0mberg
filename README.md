@@ -1,4 +1,4 @@
-# Привет, это Бромбин Андрей! 👋
+# Привет, это Бромбин Андрей!
 
 <h3 align="center">Java Backend разработчик | Магистрант ВШЭ | Автор на Habr</h3>
 
@@ -6,10 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=br0mberg&label=Просмотры+профиля&color=0e75b6&style=flat" alt="br0mberg profile views" />
 </p>
 
-## 👨‍💻 Обо мне
-- 🎓 **Выпускник:** МГТУ им. Баумана
-- 🎓 **Магистрант ВШЭ:** "Проектирование и разработка высоконагруженных информационных систем".
-- 🚀 Создаю масштабируемые и надежные решения, каждый день совершенствую свои навыки, изучая новые для меня технологии.
+##  Обо мне
+-  **Выпускник:** МГТУ им. Баумана "Управление в технических системах"
+-  **Магистрант:** НИУ ВШЭ "Проектирование и разработка высоконагруженных информационных систем".
 - 📫 Как со мной связаться: [andrey@brombin.ru](mailto:andrey@brombin.ru)
 
 ---
@@ -38,27 +37,18 @@
 
 ---
 
-## 📈 Моя статистика на GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=br0mberg&show_icons=true&locale=ru&theme=radical&hide_border=true&bg_color=0D1117" alt="br0mberg github stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br0mberg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" height="180"/>
-</p>
-
----
-
-## 🚀 Основные проекты
+##  Основные проекты
 
 | Проект | Описание | Особенности |
 |---|---|---|
-| ⚙️ **[SupportDesk Microservices](https://github.com/br0mberg?tab=repositories&q=SupportDesk)** | Семейство сервисов для системы поддержки пользователей. | Spring, Kafka, PostgreSQL. |
-| 🧠 **[IncidentRetrievalService](https://github.com/br0mberg/SupportDesk-IncidentRetrievalService)** | Сервис для RAG и предобработки инцидентов с помощью больших языковых моделей (LLM). | Spring AI, LLM Integrations. |
-| 🧩 **[Java-GOF-patterns](https://github.com/br0mberg/GOF-patterns-java)** | Практические примеры паттернов GOF (банды четырёх) на Java. | Архитектура, ООП шаблоны. |
-| 🔐 **[XMLsignAndValidate](https://github.com/br0mberg/XMLsignAndValidate)** | Библиотека для подписи и проверки XML-документов. | Безопасность, Криптография. |
+|  **[SupportDesk Microservices](https://github.com/br0mberg?tab=repositories&q=SupportDesk)** | Семейство сервисов для системы поддержки пользователей. | Spring, Kafka, PostgreSQL. |
+|  **[IncidentRetrievalService](https://github.com/br0mberg/SupportDesk-IncidentRetrievalService)** | Сервис для RAG и предобработки инцидентов с помощью больших языковых моделей (LLM). | Spring AI, LLM Integrations. |
+|  **[Java-GOF-patterns](https://github.com/br0mberg/GOF-patterns-java)** | Практические примеры паттернов GOF (банды четырёх) на Java. | Архитектура, ООП шаблоны. |
+|  **[XMLsignAndValidate](https://github.com/br0mberg/XMLsignAndValidate)** | Библиотека для подписи и проверки XML-документов. | Безопасность, Криптография. |
 
 ---
 
-## 📰 Мой Блог и Статьи
+## Мой Блог и Статьи
 
 Читайте мои статьи о Java, разработке и архитектуре!
 
