@@ -10,12 +10,10 @@
 
 Готовлю датасеты, обучаю и дообучаю модели, проверяю их на отдельных выборках и интегрирую в сервисы. Для RAG экспериментирую с поиском по документам и реранкингом, измеряю качество выдачи и задержку.
 
-## Свежая статья на Хабре
-
-**Гибридный RAG на Налоговом кодексе: восемь находок, семь потерь**
+<h2 align="center">Гибридный RAG на Налоговом кодексе: восемь находок, семь потерь</h2>
 
 <p align="center">
-  <a href="https://habr.com/ru/companies/ruvds/articles/1050162/"><img alt="Обложка статьи о гибридном RAG" width="480" src="https://raw.githubusercontent.com/br0mberg/ragview-rag-types/main/docs/cover.png"></a>
+  <a href="https://habr.com/ru/companies/ruvds/articles/1050162/"><img alt="Обложка статьи о гибридном RAG" width="100%" src="https://raw.githubusercontent.com/br0mberg/ragview-rag-types/main/docs/cover.png"></a>
 </p>
 
 Сравнил векторный поиск, BM25, RRF и реранкинг BGE на вопросах из FAQ ФНС. [Читать статью](https://habr.com/ru/companies/ruvds/articles/1050162/) · [Код и результаты](https://github.com/br0mberg/ragview-rag-types)
